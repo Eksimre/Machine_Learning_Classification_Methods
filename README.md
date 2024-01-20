@@ -7,5 +7,5 @@
     * Random Forest
     * SVM Classifier   
 
-* Prejenin asıl amacı daha iyi bir skor elde etmek değildir. Veri işleme ve sınfılandırma modelleri üzerinde çalışmalar yaparak yeterliliğimi artırmaktır.
+* Projenin asıl amacı daha iyi bir skor elde etmek değildir. Veri işleme ve sınfılandırma modelleri üzerinde çalışmalar yaparak yeterliliğimi artırmaktır.
   
